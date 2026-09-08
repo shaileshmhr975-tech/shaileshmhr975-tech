@@ -1,6 +1,6 @@
 # Hi, I'm Shailesh 👋
 
-🎓 1st-year BTech student at GBPUAT (G.B. Pant University of Agriculture and Technology), Pantnagar
+🎓 2st-year BTech student at GBPUAT (G.B. Pant University of Agriculture and Technology), Pantnagar
 🔐 Self-studying cybersecurity alongside my formal coursework
 🐧 Learning Linux, Bash, networking, and ethical hacking fundamentals
 
@@ -10,15 +10,14 @@
 
 - **[cybersecurity-vault](https://github.com/shaileshmhr975-tech/cybersecurity-vault)** — my personal cybersecurity knowledge base and code repo, organized with notes and scripts (including `sysadmin-scripts/`)
 - **Python Port Scanner** — a socket-based port scanner (`port_scanner.py`) built from scratch to understand how scanning tools work under the hood
-- Working through **TCM Security's Practical Ethical Hacking (PEH)** course
 - Practicing Linux fundamentals through hands-on command-line challenges (`find`, `grep`, `nc`, `openssl`, `tar`, and more)
 
 ---
 
 ## 🛠️ Skills & Tools
 
-**Languages:** Python, Bash
-**Platforms:** Kali Linux (VirtualBox), Linux fundamentals, Git/GitHub
+**Languages:** Python, Bash, C++
+**Platforms:** Kali Linux (VirtualBox), Linux fundamentals, Git/GitHub, Windows Powershell
 **Security Tools:** Wireshark, OWASP Amass, Nmap-style scripting
 **Currently Learning:** Networking, Ethical Hacking, Web Security
 
@@ -38,10 +37,10 @@ A self-directed 4-year cybersecurity learning path, running alongside my BTech:
 - [x] Git & GitHub workflow
 - [x] Python basics → building real tools (port scanner)
 - [ ] Networking fundamentals & packet analysis (Wireshark)
-- [ ] Practical Ethical Hacking (TCM Security course)
-- [ ] Web application security (PortSwigger Academy)
-- [ ] CTFs & hands-on labs (HackTheBox, PicoCTF)
-- [ ] Certifications (TBD)
+- [ ] Practical Ethical Hacking
+- [ ] Web application security
+- [ ] CTFs & hands-on labs
+- [ ] Certifications
 
 ---
 

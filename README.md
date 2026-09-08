@@ -1,6 +1,6 @@
 # Hi, I'm Shailesh 👋
 
-🎓 2st-year BTech student at GBPUAT (G.B. Pant University of Agriculture and Technology), Pantnagar
+🎓 2nd-year BTech student at GBPUAT (G.B. Pant University of Agriculture and Technology), Pantnagar
 🔐 Self-studying cybersecurity alongside my formal coursework
 🐧 Learning Linux, Bash, networking, and ethical hacking fundamentals
 

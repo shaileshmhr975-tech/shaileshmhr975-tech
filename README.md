@@ -2,7 +2,7 @@
 
 🎓 2nd-year BTech student at GBPUAT (G.B. Pant University of Agriculture and Technology), Pantnagar
 🔐 Self-studying cybersecurity alongside my formal coursework
-🐧 Learning Linux, Bash, networking, and ethical hacking fundamentals
+🐧 Learning Linux, Bash, networking, and ethical hacking fundamentals, JS, HTML
 
 ---
 
@@ -38,7 +38,7 @@ A self-directed 4-year cybersecurity learning path, running alongside my BTech:
 - [x] Python basics → building real tools (port scanner)
 - [ ] Networking fundamentals & packet analysis (Wireshark)
 - [ ] Practical Ethical Hacking
-- [ ] Web application security
+- [ ] Web application security (JS, HTML)
 - [ ] CTFs & hands-on labs
 - [ ] Certifications
 

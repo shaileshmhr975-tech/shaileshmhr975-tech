@@ -39,7 +39,6 @@ A self-directed 4-year cybersecurity learning path, running alongside my BTech:
 - [ ] Networking fundamentals & packet analysis (Wireshark)
 - [ ] Practical Ethical Hacking
 - [ ] Web application security (JS, HTML)
-- [ ] CTFs & hands-on labs
 - [ ] Certifications
 
 ---

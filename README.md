@@ -2,7 +2,7 @@
 
 🎓 2nd-year BTech student at GBPUAT (G.B. Pant University of Agriculture and Technology), Pantnagar
 🔐 Self-studying cybersecurity alongside my formal coursework
-🐧 Learning Linux, Bash, networking, and ethical hacking fundamentals, JS, HTML
+🐧 Learning Linux, Bash, networking, and ethical hacking fundamentals, JS, HTML, DSA
 
 ---
 
@@ -11,6 +11,7 @@
 - **[cybersecurity-vault](https://github.com/shaileshmhr975-tech/cybersecurity-vault)** — my personal cybersecurity knowledge base and code repo, organized with notes and scripts (including `sysadmin-scripts/`)
 - **Python Port Scanner** — a socket-based port scanner (`port_scanner.py`) built from scratch to understand how scanning tools work under the hood
 - Practicing Linux fundamentals through hands-on command-line challenges (`find`, `grep`, `nc`, `openssl`, `tar`, and more)
+- DSA(Data Structure and Algorithm)  with CodeWithHarry
 
 ---
 
@@ -19,7 +20,7 @@
 **Languages:** Python, Bash, C++
 **Platforms:** Kali Linux (VirtualBox), Linux fundamentals, Git/GitHub, Windows Powershell
 **Security Tools:** Wireshark, OWASP Amass, Nmap-style scripting
-**Currently Learning:** Networking, Ethical Hacking, Web Security
+**Currently Learning:** Networking, Ethical Hacking, Web Security, DSA
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
